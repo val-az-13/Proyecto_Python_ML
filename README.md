@@ -60,4 +60,4 @@ Si bien el modelo obtuvo resultados razonables, sería posible mejorar su capaci
 
 El desarrollo y la ejecución del modelo se encuentran en el siguiente notebook:
 
-`Proyecto2_Regresion_Lineal_Multiple.ipynb`
+`Proyecto2_Regresion_Lineal_Multiple_Azcarate_Ferreyra.ipynb`
